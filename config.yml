@@ -9,5 +9,4 @@ clones_color: null  # Stroke color for the clones line. Set to a hex value (e.g.
 views_color: null  # Stroke color for the views line. Set to a hex value (e.g., "#33FF57") or leave as `null` for default.
 clones_point_color: null  # Color for the clone data points on the chart. Set to a hex value or leave as `null` for default.
 views_point_color: null  # Color for the view data points on the chart. Set to a hex value or leave as `null` for default.
-
-exclude_repos: []  # A list of repository names to exclude from the chart. Set to `[]` to include all repositories.
+exclude_repos: ["https://github.com/Vincepradas/ecommerce-web-frontend", "https://github.com/Vincepradas/quiz-gen-be"]
